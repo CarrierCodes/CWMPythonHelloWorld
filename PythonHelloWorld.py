@@ -12,7 +12,7 @@ def main():
     # TODO 2: Google how main() works in python files
     # TODO 4: update this filename variable below
 
-    filename = "data/letter_frequency.csv"
+    filename = "data/UpdateFileNameHere.csv"
     print(fileName)
     # TODO 5: run this code. There should be an error. Let's debug! (google run python code in vscode or find here under "Run Hello World": https://code.visualstudio.com/docs/python/python-tutorial)
     # TODO 6: if you haven't already... go look at your data! Under the data file you'll see a csv file. Always good to know your data :)
